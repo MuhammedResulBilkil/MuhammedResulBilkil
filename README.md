@@ -12,7 +12,7 @@ I'm a currently working at Gameflex. I'm a passionate learner who's always willi
 
 - 🛠 &nbsp; I’m currently working with Unity3D.
 - 🚀 &nbsp; I’m currently learning Unreal Engine.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📫 &nbsp; How to reach me: bilkilresul@gmail.com
 
 ### My Absolute Favorites:
 
