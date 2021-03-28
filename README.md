@@ -28,13 +28,15 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
   <summary><b>⚡ Hyper-Casual Games</b></summary>
   [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
-  <p>Download Snow Fight 3D now!</p>
+  <p>Download Cheerswipe now!</p>
 <div
   class="store-badge"
-  data-name="SnowFight3D"
-  data-app-store-url="https://apps.apple.com/tt/app/snow-fight-3d/id1502416583"
+  data-name="Cheerswipe"
+  data-google-play-url="https://play.google.com/store/apps/details?id=fr.puyou.cheerswipe"
+  data-app-store-url="https://apps.apple.com/us/app/cheerswipe/id1468158095?ls=1"
 ></div>
 <script async src="https://cdn.jsdelivr.net/npm/store-badge@1/build/bundle.js"></script>
+
 <!--data-google-play-url="https://play.google.com/store/apps/details?id=fr.puyou.cheerswipe"-->
 
 </details>
