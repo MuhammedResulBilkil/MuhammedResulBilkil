@@ -26,6 +26,9 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 <details>	
   <summary><b>⚡ Hyper-Casual Games</b></summary>
+<details>	
+<summary><b>Snow Fight 3D</b></summary>
+</details>	
 
   [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
