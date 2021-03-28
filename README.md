@@ -26,7 +26,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 <details>	
   <summary><b>⚡ Hyper-Casual Games</b></summary>
-<details style="margin-left: 30px">	
+<details style="margin-left: 30px;">	
 <summary><b>Snow Fight 3D</b></summary>
 <br>
 
@@ -41,6 +41,6 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 <div align="center">
 
-### Show some ❤️ by playing some of the games that I !
+### Show some ❤️ by playing some of the games!
 
 </div>
