@@ -6,7 +6,7 @@
 
 I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Game Development in Unity3D 🎮  and learning Unreal Engine 🤓.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/MuhammedResulBilkil/MuhammedResulBilkil/master/Gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -18,7 +18,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 <code><img height="64" src="https://raw.githubusercontent.com/MuhammedResulBilkil/MuhammedResulBilkil/master/Logos/Unity.png" alt="unity"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/MuhammedResulBilkil/MuhammedResulBilkil/master/Logos/C_Sharp.png" alt="csharp"></code>
-<code><img height="64" src="https://github.com/MuhammedResulBilkil/MuhammedResulBilkil/blob/master/Logos/Unreal_Engine-Logo.png" alt="unrealengine"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/MuhammedResulBilkil/MuhammedResulBilkil/master/Logos/Unreal_Engine-Logo.png" alt="unrealengine"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/MuhammedResulBilkil/MuhammedResulBilkil/master/Logos/C%2B%2B_Logo.svg.png" alt="c++"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/MuhammedResulBilkil/MuhammedResulBilkil/master/Logos/TerminalLogo_1.png" alt="terminal"></code>
 
