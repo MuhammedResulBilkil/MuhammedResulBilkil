@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MuhammedResulBİLKİL.MuhammedResulBİLKİL&style=flat-square&color=0088cc)
 
-I'm a currently working at Gameflex. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Game Development in Unity3D 🎮  and learning Unreal Engine 🤓.
+I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Game Development in Unity3D 🎮  and learning Unreal Engine 🤓.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
