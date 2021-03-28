@@ -26,16 +26,18 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 <details>	
   <summary><b>⚡ Hyper-Casual Games</b></summary>
-<details>	
+<details style="margin-left: 30px;">	
 <summary><b>Snow Fight 3D</b></summary>
+<br>
+
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
+
+<video width="320" height="240" controls>
+  <source src="Videos/Snow_Fight_3D_Gameplay.mov" type="video/mov">
+</video>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/snow-fight-3d/id1502416583)
 </details>	
-
-  [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
-
-  <p>Download Snow Fight 3D now!</p>
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/10/d4/1610d437-faaf-a1c2-153e-aff2f490fe8f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png" height="50">
-  
-  [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/snow-fight-3d/id1502416583)
 
 </details>
 
