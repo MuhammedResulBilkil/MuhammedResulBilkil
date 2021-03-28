@@ -33,7 +33,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
 <video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/18365027/112753040-b65d1f80-8fde-11eb-9b88-e96bcba83833.mov" type="video/mov">
+  <source src="https://user-images.githubusercontent.com/18365027/112753040-b65d1f80-8fde-11eb-9b88-e96bcba83833.mov" type="video/mp4">
 </video>
 
 https://user-images.githubusercontent.com/18365027/112753040-b65d1f80-8fde-11eb-9b88-e96bcba83833.mov
