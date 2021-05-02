@@ -24,16 +24,122 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 ### Projects:
 
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
+
 <details>	
   <summary><b>⚡ Hyper-Casual Games</b></summary>
+
+  <details style="margin-left: 30px;">
+<summary><b>Jelly Fight 3D ⭐⭐⭐⭐⭐</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/jelly-fight-3d/id1562290043)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Giant Robots ⭐⭐⭐⭐⭐</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/giant-robots/id1550907303)
+
+</details>
+
 <details style="margin-left: 30px;">	
 <summary><b>Snow Fight 3D</b></summary>
 <br>
 
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
-
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/snow-fight-3d/id1502416583)
+
 </details>	
+
+<details style="margin-left: 30px;">	
+<summary><b>Archer World</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/archer-world/id1546606660)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Deadly Zone.io</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/deadly-zone-io/id1535807764)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Take A Selfie 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/take-a-selfie-3d/id1502560678)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Pie Defense</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/pie-defense/id1559699498)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>House Smasher</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/house-smasher/id1547997657)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Words Runner 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/words-runner-3d/id1536951976)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Jelly Sumo 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/jelly-sumo-3d/id1560836322)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Falling Cars</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/falling-cars/id1527267461)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Stay Alive 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/stay-alive-3d/id1521283948)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Plug Master 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/plug-master-3d/id1512916712)
+
+</details>
+
+<details style="margin-left: 30px;">	
+<summary><b>Animal Ranch</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/animal-ranch/id1509486837)
+
+</details>
 
 </details>
 
