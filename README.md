@@ -140,6 +140,22 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/animal-ranch/id1509486837)
 
 </details>
+  
+<details style="margin-left: 30px;">	
+<summary><b>Floor Blast</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/floor-blast/id1569016392)
+
+</details>
+  
+<details style="margin-left: 30px;">	
+<summary><b>Gold Digger 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/gold-digger-3d/id1563923557)
+
+</details>
 
 </details>
 
