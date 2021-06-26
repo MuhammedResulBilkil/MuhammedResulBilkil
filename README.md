@@ -29,19 +29,19 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 <details>	
   <summary><b>⚡ Hyper-Casual Games</b></summary>
 
-  <details style="margin-left: 30px;">
-<summary><b>Jelly Fight 3D ⭐⭐⭐⭐⭐</b></summary>
-<br>
-
-[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/jelly-fight-3d/id1562290043)
-
-</details>
-
 <details style="margin-left: 30px;">	
 <summary><b>Giant Robots ⭐⭐⭐⭐⭐</b></summary>
 <br>
 
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/giant-robots/id1550907303)
+
+</details>
+
+<details style="margin-left: 30px;">
+<summary><b>Jelly Fight 3D ⭐⭐⭐⭐⭐</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/jelly-fight-3d/id1562290043)
 
 </details>
 
