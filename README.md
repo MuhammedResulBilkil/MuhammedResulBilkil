@@ -26,10 +26,10 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=plastic&logo=unity)](https://unity3d.com)
 
-<details>	
+<details>
   <summary><b>⚡ Hyper-Casual Games</b></summary>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Giant Robots ⭐⭐⭐⭐⭐</b></summary>
 <br>
 
@@ -53,7 +53,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>	
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Archer World ⭐⭐⭐</b></summary>
 <br>
 
@@ -61,7 +61,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Deadly Zone.io</b></summary>
 <br>
 
@@ -69,11 +69,27 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Take A Selfie 3D</b></summary>
 <br>
 
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/take-a-selfie-3d/id1502560678)
+
+</details>
+
+<details style="margin-left: 30px;">
+<summary><b>Brain Stack</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/brain-stack/id1572610511)
+
+</details>
+
+<details style="margin-left: 30px;">
+<summary><b>Sharp Fall 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/sharp-fall-3d/id1571305623)
 
 </details>
 
@@ -85,7 +101,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>House Smasher</b></summary>
 <br>
 
@@ -93,7 +109,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Words Runner 3D</b></summary>
 <br>
 
@@ -101,7 +117,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Jelly Sumo 3D</b></summary>
 <br>
 
@@ -109,7 +125,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Falling Cars</b></summary>
 <br>
 
@@ -117,7 +133,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Stay Alive 3D</b></summary>
 <br>
 
@@ -125,7 +141,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Plug Master 3D</b></summary>
 <br>
 
@@ -133,7 +149,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
 
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Animal Ranch</b></summary>
 <br>
 
@@ -141,7 +157,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
   
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Floor Blast</b></summary>
 <br>
 
@@ -149,7 +165,7 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
   
-<details style="margin-left: 30px;">	
+<details style="margin-left: 30px;">
 <summary><b>Gold Digger 3D</b></summary>
 <br>
 
