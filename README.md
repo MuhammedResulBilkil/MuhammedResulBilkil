@@ -60,6 +60,14 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tt/app/archer-world/id1546606660)
 
 </details>
+  
+<details style="margin-left: 30px;">
+<summary><b>Food Warfare</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/in/app/food-warfare/id1581410883)
+
+</details>
 
 <details style="margin-left: 30px;">
 <summary><b>TV Invasion</b></summary>
