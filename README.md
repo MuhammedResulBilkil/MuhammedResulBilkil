@@ -102,6 +102,14 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 </details>
   
 <details style="margin-left: 30px;">
+<summary><b>Mine Slicer</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tr/app/mine-slicer/id1609595981)
+
+</details>
+  
+<details style="margin-left: 30px;">
 <summary><b>Deadly Zone.io</b></summary>
 <br>
 
