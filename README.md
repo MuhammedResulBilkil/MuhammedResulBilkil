@@ -109,8 +109,6 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 
 </details>
   
-</details>
-  
 <details style="margin-left: 30px;">
 <summary><b>Fun Bending 3D</b></summary>
 <br>
