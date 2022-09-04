@@ -70,6 +70,14 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 </details>
 
 <details style="margin-left: 30px;">
+<summary><b>Colors Idle 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tr/app/colors-idle-3d/id1639496025)
+
+</details>
+
+<details style="margin-left: 30px;">
 <summary><b>Sling Idle</b></summary>
 <br>
 
