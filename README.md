@@ -68,6 +68,24 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tr/app/greenhouse-factory/id1581570322)
 
 </details>
+  
+<details style="margin-left: 30px;">
+<summary><b>Knit to Survive</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tr/app/knit-to-survive/id6443487486)
+
+</details>
+  
+</details>
+  
+<details style="margin-left: 30px;">
+<summary><b>Cut Around 3D</b></summary>
+<br>
+
+[<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tr/app/cut-around-3d/id1642605601)
+
+</details>
 
 <details style="margin-left: 30px;">
 <summary><b>Colors Idle 3D</b></summary>
