@@ -74,8 +74,6 @@ I'm a currently working at [Gameflex](https://www.linkedin.com/company/gameflex/
 <br>
 
 [<img src="Logos/appstore-badge.png" height="50">](https://apps.apple.com/tr/app/knit-to-survive/id6443487486)
-
-</details>
   
 </details>
   
